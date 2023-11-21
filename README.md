@@ -2,7 +2,7 @@
 --
 I am a data analyst skilled in providing data driven insights and solutions to business problems. I am proficient with SQL, Excel, Python and PowerBI.
 
-I document my projects here, hoping to add more exciting projects soon. lol 🤪
+I document my projects here, hoping to add more exciting projects soon.
 
 ## Projects
 --
